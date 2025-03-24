@@ -107,6 +107,7 @@
 //     })
 // });
 
+//Slideshow
 $(function(){
     $('#l1').click(function(){
         $('#i1').show();
